@@ -29,10 +29,10 @@ namespace helloWorld
 
             if(age == 36)
             {
-                Console.WriteLine("You are " + age + " years old");
+                Console.WriteLine("You are " + age + " years old. Perfect!");
             } else
             {
-                Console.WriteLine("Try again buddy");
+                Console.WriteLine("You are either too young or too old");
             }
 
            
